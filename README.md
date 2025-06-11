@@ -24,11 +24,3 @@ Here are some key concepts I explored:
 - How version control helps in real-world software projects
 - The importance of writing meaningful commit messages
 
----
-
-## 📂 Repository Structure
-
-```bash
-/
-├── README.md      # Description of the project
-└── sample.txt     # Just a sample file I used for testing commits
