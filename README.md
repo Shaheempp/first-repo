@@ -1,4 +1,4 @@
-# 🌟 My First GitHub Repository
+# 🌟 My First GitHub Repository(repo)
 
 Welcome to my very first GitHub repository!  
 This project is a part of my journey to learn **Git** and **GitHub** – essential tools for version control and collaboration in software development.
